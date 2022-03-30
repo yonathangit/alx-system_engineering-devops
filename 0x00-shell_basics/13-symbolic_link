@@ -1,2 +1,3 @@
 #!/bin/bash
-ln -$ /bin/ls _ls_[D[D[D[D[D[D[D[D[D[D[D[D[C[D[s[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+ln -s /bin/ls _ls_
+
